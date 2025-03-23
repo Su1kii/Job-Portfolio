@@ -59,7 +59,7 @@ export const ProjectsSection = () => {
       </div>
         <h2 className="font-serif text-3xl md:text-5xl text-center mt-6">Portfolio Projects
         </h2>
-        <p className="text-center md:text-lg lg:text-xl text-white/60 mt-4 max-w-md mx-auto">See what I've built so far.</p>
+        <p className="text-center md:text-lg lg:text-xl text-white/60 mt-4 max-w-md mx-auto">See what I&apos;ve built so far.</p>
         <div className="mt-10 md:mt-20 flex flex-col gap-20">
           {portfolioProjects?.map((project) => (
             <div key={project.title} className="bg-gray-800 rounded-3xl z-0 after:z-10 overflow-hidden after:content-[''] after:absolute after:inset-0 after:outline-2 after:outline after:-outline-offset-2 after:rounded-3xl after:outline-white/20 px-8 pt-8 md:pt-12 md:px-10 lg:pt-16 lg:px-20 after:pointer-events-none sticky top-10"
