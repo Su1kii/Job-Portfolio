@@ -82,7 +82,7 @@ export const HeroSection = () => {
           <h1 className="font-serif text-3xl md:text-5x1 text-center mt-8 tracking-wide">Job and Project Portfolio
         </h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
-            I'm Steven Echeverria, a Computer Science student passionate about coding and problem-solving, striving to become a skilled software engineer who builds innovative and efficient solutions while continuously learning and expanding my expertise in web development and beyond.
+            I&apos;m Steven Echeverria, a Computer Science student passionate about coding and problem-solving, striving to become a skilled software engineer who builds innovative and efficient solutions while continuously learning and expanding my expertise in web development and beyond.
           </p>
         </div>
         <div className="flex flex-col md:flex-row justify-center items-center mt-8 gap-4">
@@ -92,7 +92,7 @@ export const HeroSection = () => {
           </button>
           <button className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl">
             <span>👋</span>
-            <span className="font-semibold z-20">Let's Connect</span>
+            <span className="font-semibold z-20">Let&apos;s Connect</span>
           </button>
         </div>
       </div>
