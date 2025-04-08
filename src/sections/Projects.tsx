@@ -6,7 +6,7 @@ import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
 import GrainImage from "@/assets/images/grain.jpg";
 import Pizza from "@/assets/images/Pro pizza.png";
 import Birthday from "@/assets/images/Project 1.png";
-import WorkInProgress from "@/assets/images/Progress.png";
+import WorkInProgress from "@/assets/images/Prog.png";
 
 const portfolioProjects = [
   {
