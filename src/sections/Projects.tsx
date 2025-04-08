@@ -6,7 +6,7 @@ import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
 import GrainImage from "@/assets/images/grain.jpg";
 import Pizza from "@/assets/images/Pro pizza.png";
 import Birthday from "@/assets/images/Project 1.png";
-import WorkInProgress from "@/assets/images/WorkInProgress.png";
+import WorkInProgress from "@/assets/images/WorkInProgress.png.jpg";
 
 const portfolioProjects = [
   {
@@ -19,7 +19,7 @@ const portfolioProjects = [
       { title: "Work In Progress" },
     ],
     link: "#",
-    image: WorkInProgress,
+    image: Birthday,
   },
   {
     company: "Personal Projects",
@@ -31,7 +31,7 @@ const portfolioProjects = [
       { title: "Work In Progress" },
     ],
     link: "#",
-    image: Birthday,
+    image: Pizza,
   },
   {
     company: "SLCC",
@@ -43,7 +43,7 @@ const portfolioProjects = [
       { title: "Projects I've done throughout the semester" },
     ],
     link: "http://www.steven-e.ct.ws/?i=1",
-    image: Pizza,
+    image: WorkInProgress,
   },
 ];
 
